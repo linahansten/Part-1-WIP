@@ -15,6 +15,7 @@ const translations = {
         inputPlaceholder: "Kirjoita jotain...",
         buttonLabel: "Lisää"
     }
+
 }
 
 function saveToLocalStorage() {
